@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:id="@+id/chasse_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent">
+
+    <fr.cnam.nfa022.bonelli.ChasseVueCamera
+        android:id="@+id/chasse_preview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+    <fr.cnam.nfa022.bonelli.ChasseVueObjets
+        android:id="@+id/chasse_vue_objets"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+    <LinearLayout
+        android:id="@+id/chasse_ui"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="#99000000"/>
+
+</FrameLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Trésors GO</string>
+    <string name="bienvenue">Bienvenue !\n\n Prêt.e à explorer ?</string>
+    <string name="comment">(Comment jouer ?)</string>
+    <string name="explications">Différents trésors sont cachés autour de vous : explorez les environs
+        avec votre téléphone et repérez-les grâce aux différentes croix.
+        Pour en révéler un, rapprochez-vous et cliquez dès que la croix devient rouge,
+        ou bien double-cliquez l\'écran si l\'objet se trouve derrière un obstacle ou vers un endroit inaccessible.\n
+        Attention : vous disposez d\'un temps limite (laissé au choix), rallongé de 5 secondes à chaque objet trouvé.\n\n
+        Bonne chance !</string>
+    <string name="jouer">Jouer</string>
+    <string name="choisir">Choisissez votre niveau de difficulté en sélectionnant le nombre d\'objets à trouver
+        et le temps limite qui vous sera accordé</string>
+    <string name="nb_obj_txt">Nombre d\'objets :</string>
+    <string name="tps_txt">Temps (en secondes) :</string>
+    <string name="lancer">Lancer l\'exploration</string>
+    <string name="a_trouver">À trouver : </string>
+    <string name="chasse_fin_gagne">!! Bravo !!\n\nVous avez trouvé tous les objets cachés</string>
+    <string name="chasse_fin_perdu">!! Dommage !!\n\nVous n\'avez pas trouvé tous les objets dans les temps</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="reessayer">Réessayer</string>
+    <string name="quitter">Quitter</string>
+</resources>

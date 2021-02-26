@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Treasure GO</string>
+    <string name="bienvenue">Welcome!\n\nReady to explore?</string>
+    <string name="comment">(How to play?)</string>
+    <string name="explications">Different treasures are hidden around you: scan your surroundings
+        with your device and find them by following the different Xs.
+        To bring one to light, get closer and click when the X becomes red,
+        or double-click if the object seems to be behind an obstacle or somewhere inaccessible.\n
+        Careful: you have limited time (which you can choose), but you get 5 more seconds for every
+        object you find.\n\nGood luck!</string>
+    <string name="jouer">Play</string>
+    <string name="choisir">Choose your difficulty by selecting the number of objects to find and
+        the time that you will have to explore</string>
+    <string name="nb_obj_txt">Number of objects:</string>
+    <string name="tps_txt">Time (in seconds):</string>
+    <string name="lancer">Start hunt</string>
+    <string name="a_trouver">To find: </string>
+    <string name="rejouer">Play again</string>
+    <string name="reessayer">Try again</string>
+    <string name="quitter">Quit</string>
+    <string name="chasse_fin_gagne">!! Congrats !!\n\nYou have found all the hidden objects</string>
+    <string name="chasse_fin_perdu">!! Too bad !!\n\nYou didn\'t find all the objects in the allotted time</string>
+</resources>
